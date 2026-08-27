@@ -1,0 +1,6 @@
+{
+  "name": "Markets Everywhere",
+  "description": "TradingView-inspired global markets dashboard with interactive indices, US & world stocks, crypto, forex, bonds, and ETFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
